@@ -115,3 +115,8 @@ Understand Node.js basics.
 Learn how to use AI tools effectively during development.
 
 Develop better problem-solving and debugging skills.
+## Learning Goals
+
+- Understand Git and GitHub workflow
+- Learn basic Node.js environment setup
+- Practice AI-assisted development
